@@ -1,0 +1,10 @@
+dash
+dash_bootstrap_components
+dash_bootstrap_templates
+dash_mantine_components
+pandas
+Pillow==10.1.0
+requests==2.31.0
+gunicorn
+dash-tools
+urlopen
